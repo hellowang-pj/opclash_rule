@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 
 #otherAi
+DOMAIN-KEYWORD,poe
 DOMAIN-SUFFIX,poe.com
 
 # Netflix
